@@ -1,0 +1,333 @@
+/* Own Styles CSS */
+
+body {
+    background-color:#222222;
+    background-image:url("img/bg.png");
+}
+
+/* INDEX */
+/* Styles of Header */
+.own-header {
+    background-color:#333333;
+    border:none;
+    border-radius:0;
+    font-size:11px;
+    margin-bottom:0px;
+}
+
+.own-header button {
+    background-color:#e7e7e7 !important;
+}
+
+.own-header span {
+    background-color:#333333 !important;
+}
+
+.own-header-pilot20days {
+    font-family:"Kaushan Script", serif;
+    color:#ffd700 !important;
+}
+
+.own-header-makflybcn {
+    display:none;
+}
+
+.own-active {
+    font-family:Montserrat, serif;
+    color:#222222 !important;
+}
+
+.own-header-section {
+    font-family:Montserrat;
+    color:#ffffff !important;
+}
+
+.own-header-section:hover {
+    color:#ffd700 !important;
+}
+
+.own-header-section-network {
+    font-family:Montserrat, serif;
+    color:#ffffff !important;
+}
+
+.own-img-german {
+    vertical-align:top !important;
+    margin-right:5px;
+    width:18px;
+    height:18px;
+}
+
+.own-header-section-network:hover {
+    color:#ffd700 !important;
+}
+
+.own-header-section-network:focus {
+    background-color:#333333 !important;
+}
+
+.own-header-dropdown {
+    font-family:Montserrat, serif;
+    font-size:11px;
+}
+
+.own-header-bg-dropdown {
+    background-color:#e7e7e7;
+}
+
+.own-img-social {
+    vertical-align:middle !important;
+}
+
+/*  Carroussel */
+#myCarousel img {
+    width:100%;
+}
+
+/* Section Become a pilot in 20 days */
+.own-section-pilot20days {
+    background-color:#e7e7e7;
+}
+
+.own-section-pilot20days h1 {
+    font-family:"Kaushan Script", serif;
+    font-size:28px;
+    text-align:center;
+    color:#222222 !important;
+    margin-bottom:25px;
+}
+
+.own-section-pilot20days p {
+    font-family:Montserrat, serif;
+    font-size:18px;
+    text-align:justify;
+    color:#333333;
+    margin:0px 50px 25px;
+}
+
+.own-button-20days {
+    font-family:Montserrat, serif;
+    font-size:16px;
+    margin-bottom:25px;
+    padding:10px 30px;
+    background-color:#222222;
+    border:2px solid #ffffff;
+    border-radius:6px;
+    color:#ffffff;
+    outline:none;
+}
+
+.own-button-20days:hover {
+    color:#ffd700;
+    border:2px solid #ffd700;
+}
+
+/* Section Three columns */
+.own-section-three-columns {
+    font-family:Montserrat, serif;
+    background-color:#ffffff !important;
+    padding-top:25px;
+    padding-bottom:10px;
+}
+
+.own-section-three-columns h4 {
+    font-size:20px;
+}
+
+.own-section-three-columns p {
+    margin-bottom:25px;
+    font-size:15px;
+}
+
+/* Section School */
+.own-section-school {
+    background-color:#3b73b0;
+    font-family:Montserrat, serif;
+    color:#e7e7e7;
+    margin:0 auto !important;
+}
+
+.own-section-school h3 {
+    margin-top:25px;
+    margin-bottom:25px;
+}
+
+.own-section-school img {
+    margin:0 auto;
+    border-radius:5px;
+}
+
+.own-section-school p {
+    margin-top:10px;
+    font-size:15px;
+    margin-bottom:25px;
+}
+
+/* Section Courses */
+.own-section-courses {
+    background-color:#e7e7e7;
+    font-family:Montserrat, serif;
+    color:#222222;
+    margin:0 auto !important;
+}
+
+.own-section-courses h3 {
+    margin-top:25px;
+    margin-bottom:25px;
+}
+
+.own-section-courses img {
+    margin:0 auto 25px;
+    border-radius:5px;
+}
+
+.own-section-courses p {
+    margin-top:10px;
+    font-size:15px;
+    margin-bottom:25px;
+}
+
+/* Contact */
+section#contact {
+    background-color: #222222;
+    background-image: url('../img/map-image.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family:Montserrat, serif;
+}
+
+section#contact .section-heading {
+    color:#e7e7e7;
+    margin:30px;
+}
+
+section#contact .form-group {
+    margin-bottom:25px;
+}
+
+section#contact .form-group input,
+section#contact .form-group textarea {
+    padding:20px;
+}
+
+section#contact .form-group input.form-control {
+    height:auto;
+}
+
+section#contact .form-group textarea.form-control {
+    height:236px;
+}
+
+section#contact .form-control:focus {
+    border-color:#fed136;
+    box-shadow:none;
+}
+
+.own-contact-button {
+    margin-bottom:25px;
+    background-color:#3B73B0;
+    color:#ffffff;
+}
+
+.own-contact-button:hover {
+    background-color:#222222;
+    color:#ffffff;
+    border:1px solid #ffffff;
+}
+
+/* Section Networks */
+.own-section-social-networks {
+    background-color:#e7e7e7;
+    font-family:Montserrat, serif;
+    color:#222222;
+    margin:0 auto !important;
+    padding-top:25px;
+}
+
+.own-section-social-networks img {
+    margin:25px auto 10px;
+    width:128px;
+    width:128px;
+}
+
+.own-section-social-networks p {
+    font-size:28px;
+    margin-bottom:25px;
+}
+
+.own-footer {
+    background-color:#000000;
+    padding-top:25px;
+    padding-bottom:25px;
+    font-family:Montserrat, serif;
+}
+
+.own-footer ul {
+    list-style:none;
+}
+
+.own-footer li {
+    margin-bottom:10px;
+}
+
+.own-footer a {
+    color:#e7e7e7;
+}
+
+.own-footer a:hover {
+    text-decoration:none;
+    color:#ffd700;
+}
+
+.own-footer a:active {
+    text-decoration:none;
+}
+
+.own-footer a:focus {
+    text-decoration:none;
+}
+
+.own-footer-copyright {
+    background-color:#000000;
+    font-family:Montserrat, serif;
+}
+
+.own-footer-copyright p {
+    font-size:12px;
+    color:#ffffff;
+    margin-bottom:15px;
+}
+
+/* Mobile Phone Responsive */
+@media screen and (max-width:767px)
+{
+    .own-header-makflybcn {
+        display:inline;
+        font-family:"Kaushan Script", serif;
+        color:#e7e7e7 !important;
+    }
+
+    .own-header-dropdown {
+        color:#ffffff !important;
+    }
+
+    .own-header-dropdown:hover {
+        color:#ffd700 !important;
+    }
+
+    .own-header-bg-dropdown {
+        background-color:#333333 !important;
+    }
+
+    .own-header-pilot20days {
+        display:none;
+    }
+
+    #myCarousel {
+        display:none;
+    }
+
+    .own-section-pilot20days p {
+        margin:0px 30px 25px;
+    }
+}
